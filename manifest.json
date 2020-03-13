@@ -8,7 +8,7 @@
     "content_scripts": [
       {
         "matches": ["https://*.esa.io/posts/*/edit"],
-        "js": ["esa-edit-monospace.js"]
+        "js": ["esa-monospace-editor.js"]
       }
     ]
   }
