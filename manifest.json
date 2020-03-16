@@ -1,5 +1,5 @@
 {
-  "name": "chrome-esa-edit-monospace",
+  "name": "esa-monospace-editor",
   "author": "Kosuke Mizuno",
   "description": "chrome extension for applying monospace font-family in editable text area on esa.io",
   "version": "1.0.0",
