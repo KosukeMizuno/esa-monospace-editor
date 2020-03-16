@@ -7,7 +7,8 @@
     "web_accessible_resources": ["*"],
     "content_scripts": [
       {
-        "matches": ["https://*.esa.io/posts/*/edit"],
+        "matches": ["https://*.esa.io/posts/*/edit",
+                    "https://*.esa.io/posts/new"],
         "js": ["esa-monospace-editor.js"]
       }
     ]
