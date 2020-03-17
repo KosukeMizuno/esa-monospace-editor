@@ -2,5 +2,9 @@
 
 A chrome extension for applying monospace font-familly in esa.io editor.
 
-![ss](./screenshot.png)
+With this extension: 
+![ss](screenshot_monospace.png)
+
+Without:
+![ss](screenshot_default.png)
 
